@@ -6,6 +6,4 @@ public class Main {
 	// write your code here
         System.out.println("Hello Git-Hub World");
     }
-
-
 }
